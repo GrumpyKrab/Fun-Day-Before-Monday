@@ -2,4 +2,5 @@
 
 This is the official repository for fun day before monday
 
-Orignally made by Ayaan Dhalait
+
+ggs
